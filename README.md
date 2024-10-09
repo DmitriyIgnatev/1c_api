@@ -17,7 +17,7 @@
 Токен бессрочный
 
 2)
-Отправление json со скидками осуществяется по запросу на адресс `http://corp.csdev.local/1c_api/request.php`
+Отправление json со скидками осуществяется по запросу на адресс `http://corp.csdev.local/1c_api/discount.php`
 Содержимо Body
 ```
 [
